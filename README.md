@@ -1,2 +1,17 @@
 # tiny-crypt
-Tiny pixel roguelike inspired by The Binding of Isaac
+
+Tiny pixel roguelike game like TBoI. Offline, no server.
+
+## Команда
+
+- **mureni**: PM, бэкенд (данные). Планирует работу; на Go: конвертер `.txt` → JSON, валидатор комнат, тесты
+- **sedrias**: разработчик. На C++: ядро игры, окно SFML, спрайты, HUD, меню
+- **selfdeseption**: дизайнер. Спрайты, палитра, макеты интерфейса
+- **Bettt_ttt**: аналитик. Описание игры, формат данных, итоговый отчёт
+- **fsfdssssssssss**: тестировщик. Проверка комнат и игры
+
+## Стек
+
+- Игра: C++ и SFML
+- Инструменты для комнат: Go
+- Комнаты: `.txt` → JSON
