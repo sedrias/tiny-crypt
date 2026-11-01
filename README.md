@@ -1,6 +1,6 @@
 # tiny-crypt
 
-Tiny pixel roguelike game like TBoI. Offline, no server.
+Небольшая пиксельная игра-рогалик по мотивам The Binding of Isaac. Офлайн, без серверов
 
 ## Команда
 
